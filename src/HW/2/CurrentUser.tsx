@@ -1,6 +1,6 @@
 import { UserType } from './HW2';
 
-type CurrentUserPropsType = {
+export type CurrentUserPropsType = {
   user: UserType
 };
 
